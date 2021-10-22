@@ -4,5 +4,5 @@ saucetreeから
 　ツール＞認証
 
 　ログイン後に聞かれるパスワード
-　　　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
+　　　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
 
